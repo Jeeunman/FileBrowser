@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ManjeeFileBrowser</string>
+    <string name="file_management">파일 관리자</string>
 </resources>
